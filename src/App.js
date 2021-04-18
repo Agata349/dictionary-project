@@ -13,7 +13,7 @@ export default function App() {
       </main>
       <footer>
         <small>
-          Coded by Agata Piekarczyk - <a href="https://github.com/Agata349/dictionary-project" >open-sourced on GitHub</a>, hosted on <a href="https://app.netlify.com/sites/heuristic-booth-920e8b/overview" > Netlify</a>
+          Coded by Agata Piekarczyk - <a href="https://github.com/Agata349/dictionary-project" target="_blank" rel="noreferrer">open-sourced on GitHub</a>, hosted on <a href="https://app.netlify.com/sites/heuristic-booth-920e8b/overview" target="_blank" rel="noreferrer" > Netlify</a>
           </small>
           </footer>
       </div>
