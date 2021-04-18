@@ -10,11 +10,11 @@ export default function App() {
       <img src={logo} className="App-logo img-fluid" alt="logo"/>
       </header>
       <main>
-        <Dictionary />
+        <Dictionary defaultKeyword="book"/>
       </main>
       <footer>
         <small>
-          Coded by Agata Piekarczyk
+          Coded by Agata Piekarczyk - <a href="https://github.com/Agata349/dictionary-project" >open-sourced on GitHub</a>, hosted on <a href="https://app.netlify.com/sites/heuristic-booth-920e8b/overview" > Netlify</a>
           </small>
           </footer>
       </div>
